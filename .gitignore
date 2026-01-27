@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local PostGIS workshop data
+postgis-workshop/
+
+# Spatial data (large / binary)
+*.shp
+*.dbf
+*.shx
+*.prj
+*.gpkg
+*.tif
+*.zip
+*.backup
